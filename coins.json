@@ -1,0 +1,1927 @@
+[
+    {
+        "pair": "XRP/USDT",
+        "name": "XRP",
+        "src": "static/img/coins/52.png"
+    },
+    {
+        "pair": "XRP/BTC",
+        "name": "XRP",
+        "src": "static/img/coins/52.png"
+    },
+    {
+        "pair": "BTC/USDT",
+        "name": "Bitcoin",
+        "src": "static/img/coins/1.png"
+    },
+    {
+        "pair": "ETH/USDT",
+        "name": "Ethereum",
+        "src": "static/img/coins/1027.png"
+    },
+    {
+        "pair": "ETH/BTC",
+        "name": "Ethereum",
+        "src": "static/img/coins/1027.png"
+    },
+    {
+        "pair": "EOS/USDT",
+        "name": "EOS",
+        "src": "static/img/coins/1765.png"
+    },
+    {
+        "pair": "XLM/BTC",
+        "name": "Stellar",
+        "src": "static/img/coins/512.png"
+    },
+    {
+        "pair": "ADA/USDT",
+        "name": "Cardano",
+        "src": "static/img/coins/2010.png"
+    },
+    {
+        "pair": "TRX/USDT",
+        "name": "TRON",
+        "src": "static/img/coins/1958.png"
+    },
+    {
+        "pair": "TRX/BTC",
+        "name": "TRON",
+        "src": "static/img/coins/1958.png"
+    },
+    {
+        "pair": "XRP/ETH",
+        "name": "XRP",
+        "src": "static/img/coins/52.png"
+    },
+    {
+        "pair": "BCC/USDT",
+        "name": "Bitcoin Cash",
+        "src": "static/img/coins/1831.png"
+    },
+    {
+        "pair": "XLM/USDT",
+        "name": "Stellar",
+        "src": "static/img/coins/512.png"
+    },
+    {
+        "pair": "ADA/BTC",
+        "name": "Cardano",
+        "src": "static/img/coins/2010.png"
+    },
+    {
+        "pair": "EOS/BTC",
+        "name": "EOS",
+        "src": "static/img/coins/1765.png"
+    },
+    {
+        "pair": "ONT/USDT",
+        "name": "Ontology",
+        "src": "static/img/coins/2566.png"
+    },
+    {
+        "pair": "NEO/USDT",
+        "name": "NEO",
+        "src": "static/img/coins/1376.png"
+    },
+    {
+        "pair": "LTC/USDT",
+        "name": "Litecoin",
+        "src": "static/img/coins/2.png"
+    },
+    {
+        "pair": "ETC/USDT",
+        "name": "Ethereum Classic",
+        "src": "static/img/coins/1321.png"
+    },
+    {
+        "pair": "BCC/BTC",
+        "name": "Bitcoin Cash",
+        "src": "static/img/coins/1831.png"
+    },
+    {
+        "pair": "ETC/BTC",
+        "name": "Ethereum Classic",
+        "src": "static/img/coins/1321.png"
+    },
+    {
+        "pair": "VET/USDT",
+        "name": "VeChain",
+        "src": "static/img/coins/3077.png"
+    },
+    {
+        "pair": "NANO/BTC",
+        "name": "Nano",
+        "src": "static/img/coins/1567.png"
+    },
+    {
+        "pair": "IOTA/USDT",
+        "name": "IOTA",
+        "src": "static/img/coins/1720.png"
+    },
+    {
+        "pair": "ONT/BTC",
+        "name": "Ontology",
+        "src": "static/img/coins/2566.png"
+    },
+    {
+        "pair": "ICX/USDT",
+        "name": "ICON",
+        "src": "static/img/coins/2099.png"
+    },
+    {
+        "pair": "NEO/BTC",
+        "name": "NEO",
+        "src": "static/img/coins/1376.png"
+    },
+    {
+        "pair": "LTC/BTC",
+        "name": "Litecoin",
+        "src": "static/img/coins/2.png"
+    },
+    {
+        "pair": "BNB/USDT",
+        "name": "Binance Coin",
+        "src": "static/img/coins/1839.png"
+    },
+    {
+        "pair": "VIBE/BTC",
+        "name": "VIBE",
+        "src": "static/img/coins/1983.png"
+    },
+    {
+        "pair": "IOTA/BTC",
+        "name": "IOTA",
+        "src": "static/img/coins/1720.png"
+    },
+    {
+        "pair": "ZRX/BTC",
+        "name": "0x",
+        "src": "static/img/coins/1896.png"
+    },
+    {
+        "pair": "VET/BTC",
+        "name": "VeChain",
+        "src": "static/img/coins/3077.png"
+    },
+    {
+        "pair": "ICX/BTC",
+        "name": "ICON",
+        "src": "static/img/coins/2099.png"
+    },
+    {
+        "pair": "BNB/BTC",
+        "name": "Binance Coin",
+        "src": "static/img/coins/1839.png"
+    },
+    {
+        "pair": "POWR/BTC",
+        "name": "Power Ledger",
+        "src": "static/img/coins/2132.png"
+    },
+    {
+        "pair": "CHAT/BTC",
+        "name": "ChatCoin",
+        "src": "static/img/coins/2427.png"
+    },
+    {
+        "pair": "TUSD/USDT",
+        "name": "TrueUSD",
+        "src": "static/img/coins/2563.png"
+    },
+    {
+        "pair": "XMR/BTC",
+        "name": "Monero",
+        "src": "static/img/coins/328.png"
+    },
+    {
+        "pair": "TUSD/BTC",
+        "name": "TrueUSD",
+        "src": "static/img/coins/2563.png"
+    },
+    {
+        "pair": "XVG/BTC",
+        "name": "Verge",
+        "src": "static/img/coins/693.png"
+    },
+    {
+        "pair": "DASH/BTC",
+        "name": "Dash",
+        "src": "static/img/coins/131.png"
+    },
+    {
+        "pair": "QTUM/USDT",
+        "name": "Qtum",
+        "src": "static/img/coins/1684.png"
+    },
+    {
+        "pair": "HOT/BTC",
+        "name": "Holo",
+        "src": "static/img/coins/2682.png"
+    },
+    {
+        "pair": "TRX/ETH",
+        "name": "TRON",
+        "src": "static/img/coins/1958.png"
+    },
+    {
+        "pair": "EOS/ETH",
+        "name": "EOS",
+        "src": "static/img/coins/1765.png"
+    },
+    {
+        "pair": "QTUM/BTC",
+        "name": "Qtum",
+        "src": "static/img/coins/1684.png"
+    },
+    {
+        "pair": "NPXS/BTC",
+        "name": "Pundi X",
+        "src": "static/img/coins/2603.png"
+    },
+    {
+        "pair": "ZIL/BTC",
+        "name": "Zilliqa",
+        "src": "static/img/coins/2469.png"
+    },
+    {
+        "pair": "XLM/ETH",
+        "name": "Stellar",
+        "src": "static/img/coins/512.png"
+    },
+    {
+        "pair": "LUN/BTC",
+        "name": "Lunyr",
+        "src": "static/img/coins/1658.png"
+    },
+    {
+        "pair": "MFT/BTC",
+        "name": "Mainframe",
+        "src": "static/img/coins/2896.png"
+    },
+    {
+        "pair": "WAN/BTC",
+        "name": "Wanchain",
+        "src": "static/img/coins/2606.png"
+    },
+    {
+        "pair": "ADA/ETH",
+        "name": "Cardano",
+        "src": "static/img/coins/2010.png"
+    },
+    {
+        "pair": "CDT/BTC",
+        "name": "Blox",
+        "src": "static/img/coins/1864.png"
+    },
+    {
+        "pair": "BAT/BTC",
+        "name": "Basic Attention Token",
+        "src": "static/img/coins/1697.png"
+    },
+    {
+        "pair": "QKC/BTC",
+        "name": "QuarkChain",
+        "src": "static/img/coins/2840.png"
+    },
+    {
+        "pair": "LINK/BTC",
+        "name": "Chainlink",
+        "src": "static/img/coins/1975.png"
+    },
+    {
+        "pair": "XEM/BTC",
+        "name": "NEM",
+        "src": "static/img/coins/873.png"
+    },
+    {
+        "pair": "XRP/BNB",
+        "name": "XRP",
+        "src": "static/img/coins/52.png"
+    },
+    {
+        "pair": "OMG/BTC",
+        "name": "OmiseGO",
+        "src": "static/img/coins/1808.png"
+    },
+    {
+        "pair": "HOT/ETH",
+        "name": "Holo",
+        "src": "static/img/coins/2682.png"
+    },
+    {
+        "pair": "ENG/BTC",
+        "name": "Enigma",
+        "src": "static/img/coins/2044.png"
+    },
+    {
+        "pair": "CVC/BTC",
+        "name": "Civic",
+        "src": "static/img/coins/1816.png"
+    },
+    {
+        "pair": "IOST/BTC",
+        "name": "IOST",
+        "src": "static/img/coins/2405.png"
+    },
+    {
+        "pair": "WTC/BTC",
+        "name": "Waltonchain",
+        "src": "static/img/coins/1925.png"
+    },
+    {
+        "pair": "GVT/BTC",
+        "name": "Genesis Vision",
+        "src": "static/img/coins/2181.png"
+    },
+    {
+        "pair": "WAVES/BTC",
+        "name": "Waves",
+        "src": "static/img/coins/1274.png"
+    },
+    {
+        "pair": "BCD/BTC",
+        "name": "Bitcoin Diamond",
+        "src": "static/img/coins/2222.png"
+    },
+    {
+        "pair": "DOCK/BTC",
+        "name": "Dock",
+        "src": "static/img/coins/2675.png"
+    },
+    {
+        "pair": "ELF/BTC",
+        "name": "aelf",
+        "src": "static/img/coins/2299.png"
+    },
+    {
+        "pair": "BQX/BTC",
+        "name": "Ethos",
+        "src": "static/img/coins/1817.png"
+    },
+    {
+        "pair": "SC/BTC",
+        "name": "Siacoin",
+        "src": "static/img/coins/1042.png"
+    },
+    {
+        "pair": "BNB/ETH",
+        "name": "Binance Coin",
+        "src": "static/img/coins/1839.png"
+    },
+    {
+        "pair": "STRAT/BTC",
+        "name": "Stratis",
+        "src": "static/img/coins/1343.png"
+    },
+    {
+        "pair": "ZEC/BTC",
+        "name": "Zcash",
+        "src": "static/img/coins/1437.png"
+    },
+    {
+        "pair": "LSK/BTC",
+        "name": "Lisk",
+        "src": "static/img/coins/1214.png"
+    },
+    {
+        "pair": "GTO/BTC",
+        "name": "Gifto",
+        "src": "static/img/coins/2289.png"
+    },
+    {
+        "pair": "VIBE/ETH",
+        "name": "VIBE",
+        "src": "static/img/coins/1983.png"
+    },
+    {
+        "pair": "MTH/BTC",
+        "name": "Monetha",
+        "src": "static/img/coins/1947.png"
+    },
+    {
+        "pair": "LOOM/BTC",
+        "name": "Loom Network",
+        "src": "static/img/coins/2588.png"
+    },
+    {
+        "pair": "NULS/BTC",
+        "name": "Nuls",
+        "src": "static/img/coins/2092.png"
+    },
+    {
+        "pair": "VET/ETH",
+        "name": "VeChain",
+        "src": "static/img/coins/3077.png"
+    },
+    {
+        "pair": "NULS/USDT",
+        "name": "Nuls",
+        "src": "static/img/coins/2092.png"
+    },
+    {
+        "pair": "NEBL/BTC",
+        "name": "Neblio",
+        "src": "static/img/coins/1955.png"
+    },
+    {
+        "pair": "STORM/BTC",
+        "name": "Storm",
+        "src": "static/img/coins/2297.png"
+    },
+    {
+        "pair": "TNT/BTC",
+        "name": "Tierion",
+        "src": "static/img/coins/1923.png"
+    },
+    {
+        "pair": "CMT/BTC",
+        "name": "CyberMiles",
+        "src": "static/img/coins/2246.png"
+    },
+    {
+        "pair": "KEY/BTC",
+        "name": "Selfkey",
+        "src": "static/img/coins/2398.png"
+    },
+    {
+        "pair": "ADX/BTC",
+        "name": "AdEx",
+        "src": "static/img/coins/1768.png"
+    },
+    {
+        "pair": "ARN/BTC",
+        "name": "Aeron",
+        "src": "static/img/coins/2153.png"
+    },
+    {
+        "pair": "ZRX/ETH",
+        "name": "0x",
+        "src": "static/img/coins/1896.png"
+    },
+    {
+        "pair": "BLZ/BTC",
+        "name": "Bluzelle",
+        "src": "static/img/coins/2505.png"
+    },
+    {
+        "pair": "MCO/BTC",
+        "name": "Crypto.com",
+        "src": "static/img/coins/1776.png"
+    },
+    {
+        "pair": "ONT/ETH",
+        "name": "Ontology",
+        "src": "static/img/coins/2566.png"
+    },
+    {
+        "pair": "PPT/BTC",
+        "name": "Populous",
+        "src": "static/img/coins/1789.png"
+    },
+    {
+        "pair": "MTL/BTC",
+        "name": "Metal",
+        "src": "static/img/coins/1788.png"
+    },
+    {
+        "pair": "NANO/ETH",
+        "name": "Nano",
+        "src": "static/img/coins/1567.png"
+    },
+    {
+        "pair": "IOTX/BTC",
+        "name": "IoTeX",
+        "src": "static/img/coins/2777.png"
+    },
+    {
+        "pair": "RCN/BTC",
+        "name": "Ripio Credit Network",
+        "src": "static/img/coins/2096.png"
+    },
+    {
+        "pair": "FUEL/BTC",
+        "name": "Etherparty",
+        "src": "static/img/coins/2120.png"
+    },
+    {
+        "pair": "NCASH/BTC",
+        "name": "Nucleus Vision",
+        "src": "static/img/coins/2544.png"
+    },
+    {
+        "pair": "DENT/BTC",
+        "name": "Dent",
+        "src": "static/img/coins/1886.png"
+    },
+    {
+        "pair": "GO/BTC",
+        "name": "GoChain",
+        "src": "static/img/coins/2861.png"
+    },
+    {
+        "pair": "OST/BTC",
+        "name": "OST",
+        "src": "static/img/coins/2296.png"
+    },
+    {
+        "pair": "LTC/ETH",
+        "name": "Litecoin",
+        "src": "static/img/coins/2.png"
+    },
+    {
+        "pair": "AION/BTC",
+        "name": "Aion",
+        "src": "static/img/coins/2062.png"
+    },
+    {
+        "pair": "CHAT/ETH",
+        "name": "ChatCoin",
+        "src": "static/img/coins/2427.png"
+    },
+    {
+        "pair": "ICX/ETH",
+        "name": "ICON",
+        "src": "static/img/coins/2099.png"
+    },
+    {
+        "pair": "POLY/BTC",
+        "name": "Polymath",
+        "src": "static/img/coins/2496.png"
+    },
+    {
+        "pair": "NEO/ETH",
+        "name": "NEO",
+        "src": "static/img/coins/1376.png"
+    },
+    {
+        "pair": "STEEM/BTC",
+        "name": "Steem",
+        "src": "static/img/coins/1230.png"
+    },
+    {
+        "pair": "FUN/BTC",
+        "name": "FunFair",
+        "src": "static/img/coins/1757.png"
+    },
+    {
+        "pair": "IOTA/ETH",
+        "name": "IOTA",
+        "src": "static/img/coins/1720.png"
+    },
+    {
+        "pair": "BCN/BTC",
+        "name": "Bytecoin",
+        "src": "static/img/coins/372.png"
+    },
+    {
+        "pair": "CND/BTC",
+        "name": "Cindicator",
+        "src": "static/img/coins/2043.png"
+    },
+    {
+        "pair": "BCC/ETH",
+        "name": "Bitcoin Cash",
+        "src": "static/img/coins/1831.png"
+    },
+    {
+        "pair": "TUSD/ETH",
+        "name": "TrueUSD",
+        "src": "static/img/coins/2563.png"
+    },
+    {
+        "pair": "POE/BTC",
+        "name": "Po.et",
+        "src": "static/img/coins/1937.png"
+    },
+    {
+        "pair": "MANA/BTC",
+        "name": "Decentraland",
+        "src": "static/img/coins/1966.png"
+    },
+    {
+        "pair": "GAS/BTC",
+        "name": "Gas",
+        "src": "static/img/coins/1785.png"
+    },
+    {
+        "pair": "BAT/ETH",
+        "name": "Basic Attention Token",
+        "src": "static/img/coins/1697.png"
+    },
+    {
+        "pair": "AE/BTC",
+        "name": "Aeternity",
+        "src": "static/img/coins/1700.png"
+    },
+    {
+        "pair": "VIB/BTC",
+        "name": "Viberate",
+        "src": "static/img/coins/2019.png"
+    },
+    {
+        "pair": "REP/BTC",
+        "name": "Augur",
+        "src": "static/img/coins/1104.png"
+    },
+    {
+        "pair": "POWR/ETH",
+        "name": "Power Ledger",
+        "src": "static/img/coins/2132.png"
+    },
+    {
+        "pair": "KMD/BTC",
+        "name": "Komodo",
+        "src": "static/img/coins/1521.png"
+    },
+    {
+        "pair": "XLM/BNB",
+        "name": "Stellar",
+        "src": "static/img/coins/512.png"
+    },
+    {
+        "pair": "LOOM/ETH",
+        "name": "Loom Network",
+        "src": "static/img/coins/2588.png"
+    },
+    {
+        "pair": "NAS/BTC",
+        "name": "Nebulas",
+        "src": "static/img/coins/1908.png"
+    },
+    {
+        "pair": "NPXS/ETH",
+        "name": "Pundi X",
+        "src": "static/img/coins/2603.png"
+    },
+    {
+        "pair": "ENJ/BTC",
+        "name": "Enjin Coin",
+        "src": "static/img/coins/2130.png"
+    },
+    {
+        "pair": "IOTX/ETH",
+        "name": "IoTeX",
+        "src": "static/img/coins/2777.png"
+    },
+    {
+        "pair": "SNT/BTC",
+        "name": "Status",
+        "src": "static/img/coins/1759.png"
+    },
+    {
+        "pair": "SALT/BTC",
+        "name": "SALT",
+        "src": "static/img/coins/1996.png"
+    },
+    {
+        "pair": "ETC/ETH",
+        "name": "Ethereum Classic",
+        "src": "static/img/coins/1321.png"
+    },
+    {
+        "pair": "XVG/ETH",
+        "name": "Verge",
+        "src": "static/img/coins/693.png"
+    },
+    {
+        "pair": "INS/BTC",
+        "name": "INS Ecosystem",
+        "src": "static/img/coins/2369.png"
+    },
+    {
+        "pair": "NXS/BTC",
+        "name": "Nexus",
+        "src": "static/img/coins/789.png"
+    },
+    {
+        "pair": "BTG/BTC",
+        "name": "Bitcoin Gold",
+        "src": "static/img/coins/2083.png"
+    },
+    {
+        "pair": "POA/BTC",
+        "name": "POA Network",
+        "src": "static/img/coins/2548.png"
+    },
+    {
+        "pair": "ADA/BNB",
+        "name": "Cardano",
+        "src": "static/img/coins/2010.png"
+    },
+    {
+        "pair": "PHX/BTC",
+        "name": "Red Pulse Phoenix",
+        "src": "static/img/coins/2112.png"
+    },
+    {
+        "pair": "THETA/BTC",
+        "name": "Theta Token",
+        "src": "static/img/coins/2416.png"
+    },
+    {
+        "pair": "WAN/ETH",
+        "name": "Wanchain",
+        "src": "static/img/coins/2606.png"
+    },
+    {
+        "pair": "BTS/BTC",
+        "name": "BitShares",
+        "src": "static/img/coins/463.png"
+    },
+    {
+        "pair": "GNT/BTC",
+        "name": "Golem",
+        "src": "static/img/coins/1455.png"
+    },
+    {
+        "pair": "LEND/BTC",
+        "name": "ETHLend",
+        "src": "static/img/coins/2239.png"
+    },
+    {
+        "pair": "OMG/ETH",
+        "name": "OmiseGO",
+        "src": "static/img/coins/1808.png"
+    },
+    {
+        "pair": "DASH/ETH",
+        "name": "Dash",
+        "src": "static/img/coins/131.png"
+    },
+    {
+        "pair": "TRX/BNB",
+        "name": "TRON",
+        "src": "static/img/coins/1958.png"
+    },
+    {
+        "pair": "LINK/ETH",
+        "name": "Chainlink",
+        "src": "static/img/coins/1975.png"
+    },
+    {
+        "pair": "BCPT/BTC",
+        "name": "BlockMason Credit Protocol",
+        "src": "static/img/coins/2061.png"
+    },
+    {
+        "pair": "LSK/ETH",
+        "name": "Lisk",
+        "src": "static/img/coins/1214.png"
+    },
+    {
+        "pair": "WABI/BTC",
+        "name": "WaBi",
+        "src": "static/img/coins/2267.png"
+    },
+    {
+        "pair": "DNT/BTC",
+        "name": "district0x",
+        "src": "static/img/coins/1856.png"
+    },
+    {
+        "pair": "ZIL/ETH",
+        "name": "Zilliqa",
+        "src": "static/img/coins/2469.png"
+    },
+    {
+        "pair": "GTO/ETH",
+        "name": "Gifto",
+        "src": "static/img/coins/2289.png"
+    },
+    {
+        "pair": "ELF/ETH",
+        "name": "aelf",
+        "src": "static/img/coins/2299.png"
+    },
+    {
+        "pair": "EDO/BTC",
+        "name": "Eidoo",
+        "src": "static/img/coins/2057.png"
+    },
+    {
+        "pair": "CDT/ETH",
+        "name": "Blox",
+        "src": "static/img/coins/1864.png"
+    },
+    {
+        "pair": "IOST/ETH",
+        "name": "IOST",
+        "src": "static/img/coins/2405.png"
+    },
+    {
+        "pair": "LRC/BTC",
+        "name": "Loopring",
+        "src": "static/img/coins/1934.png"
+    },
+    {
+        "pair": "ARK/BTC",
+        "name": "Ark",
+        "src": "static/img/coins/1586.png"
+    },
+    {
+        "pair": "WPR/BTC",
+        "name": "WePower",
+        "src": "static/img/coins/2511.png"
+    },
+    {
+        "pair": "XZC/BTC",
+        "name": "ZCoin",
+        "src": "static/img/coins/1414.png"
+    },
+    {
+        "pair": "BRD/BTC",
+        "name": "Bread",
+        "src": "static/img/coins/2306.png"
+    },
+    {
+        "pair": "SUB/BTC",
+        "name": "Substratum",
+        "src": "static/img/coins/1984.png"
+    },
+    {
+        "pair": "TRIG/BTC",
+        "name": "Triggers",
+        "src": "static/img/coins/1423.png"
+    },
+    {
+        "pair": "VIA/BTC",
+        "name": "Viacoin",
+        "src": "static/img/coins/470.png"
+    },
+    {
+        "pair": "TNB/BTC",
+        "name": "Time New Bank",
+        "src": "static/img/coins/2235.png"
+    },
+    {
+        "pair": "XMR/ETH",
+        "name": "Monero",
+        "src": "static/img/coins/328.png"
+    },
+    {
+        "pair": "DATA/BTC",
+        "name": "Streamr DATAcoin",
+        "src": "static/img/coins/2143.png"
+    },
+    {
+        "pair": "ZEN/BTC",
+        "name": "Horizen",
+        "src": "static/img/coins/1698.png"
+    },
+    {
+        "pair": "SNGLS/BTC",
+        "name": "SingularDTV",
+        "src": "static/img/coins/1409.png"
+    },
+    {
+        "pair": "CMT/ETH",
+        "name": "CyberMiles",
+        "src": "static/img/coins/2246.png"
+    },
+    {
+        "pair": "AMB/BTC",
+        "name": "Ambrosus",
+        "src": "static/img/coins/2081.png"
+    },
+    {
+        "pair": "MOD/BTC",
+        "name": "Modum",
+        "src": "static/img/coins/2080.png"
+    },
+    {
+        "pair": "QKC/ETH",
+        "name": "QuarkChain",
+        "src": "static/img/coins/2840.png"
+    },
+    {
+        "pair": "GRS/BTC",
+        "name": "Groestlcoin",
+        "src": "static/img/coins/258.png"
+    },
+    {
+        "pair": "LUN/ETH",
+        "name": "Lunyr",
+        "src": "static/img/coins/1658.png"
+    },
+    {
+        "pair": "REQ/BTC",
+        "name": "Request Network",
+        "src": "static/img/coins/2071.png"
+    },
+    {
+        "pair": "ENG/ETH",
+        "name": "Enigma",
+        "src": "static/img/coins/2044.png"
+    },
+    {
+        "pair": "QLC/BTC",
+        "name": "QLC Chain",
+        "src": "static/img/coins/2321.png"
+    },
+    {
+        "pair": "BCD/ETH",
+        "name": "Bitcoin Diamond",
+        "src": "static/img/coins/2222.png"
+    },
+    {
+        "pair": "QSP/BTC",
+        "name": "Quantstamp",
+        "src": "static/img/coins/2212.png"
+    },
+    {
+        "pair": "QTUM/ETH",
+        "name": "Qtum",
+        "src": "static/img/coins/1684.png"
+    },
+    {
+        "pair": "KNC/BTC",
+        "name": "Kyber Network",
+        "src": "static/img/coins/1982.png"
+    },
+    {
+        "pair": "WTC/ETH",
+        "name": "Waltonchain",
+        "src": "static/img/coins/1925.png"
+    },
+    {
+        "pair": "DGD/BTC",
+        "name": "DigixDAO",
+        "src": "static/img/coins/1229.png"
+    },
+    {
+        "pair": "LTC/BNB",
+        "name": "Litecoin",
+        "src": "static/img/coins/2.png"
+    },
+    {
+        "pair": "ARDR/BTC",
+        "name": "Ardor",
+        "src": "static/img/coins/1320.png"
+    },
+    {
+        "pair": "WINGS/BTC",
+        "name": "Wings",
+        "src": "static/img/coins/1500.png"
+    },
+    {
+        "pair": "APPC/BTC",
+        "name": "AppCoins",
+        "src": "static/img/coins/2344.png"
+    },
+    {
+        "pair": "EOS/BNB",
+        "name": "EOS",
+        "src": "static/img/coins/1765.png"
+    },
+    {
+        "pair": "PIVX/BTC",
+        "name": "PIVX",
+        "src": "static/img/coins/1169.png"
+    },
+    {
+        "pair": "FUN/ETH",
+        "name": "FunFair",
+        "src": "static/img/coins/1757.png"
+    },
+    {
+        "pair": "VET/BNB",
+        "name": "VeChain",
+        "src": "static/img/coins/3077.png"
+    },
+    {
+        "pair": "DLT/BTC",
+        "name": "Agrello",
+        "src": "static/img/coins/1949.png"
+    },
+    {
+        "pair": "MFT/ETH",
+        "name": "Mainframe",
+        "src": "static/img/coins/2896.png"
+    },
+    {
+        "pair": "YOYO/BTC",
+        "name": "YOYOW",
+        "src": "static/img/coins/1899.png"
+    },
+    {
+        "pair": "BLZ/ETH",
+        "name": "Bluzelle",
+        "src": "static/img/coins/2505.png"
+    },
+    {
+        "pair": "NANO/BNB",
+        "name": "Nano",
+        "src": "static/img/coins/1567.png"
+    },
+    {
+        "pair": "SYS/BTC",
+        "name": "Syscoin",
+        "src": "static/img/coins/541.png"
+    },
+    {
+        "pair": "RDN/BTC",
+        "name": "Raiden Network Token",
+        "src": "static/img/coins/2161.png"
+    },
+    {
+        "pair": "SC/ETH",
+        "name": "Siacoin",
+        "src": "static/img/coins/1042.png"
+    },
+    {
+        "pair": "XEM/ETH",
+        "name": "NEM",
+        "src": "static/img/coins/873.png"
+    },
+    {
+        "pair": "NAS/ETH",
+        "name": "Nebulas",
+        "src": "static/img/coins/1908.png"
+    },
+    {
+        "pair": "GXS/BTC",
+        "name": "GXChain",
+        "src": "static/img/coins/1750.png"
+    },
+    {
+        "pair": "MTH/ETH",
+        "name": "Monetha",
+        "src": "static/img/coins/1947.png"
+    },
+    {
+        "pair": "AGI/BTC",
+        "name": "SingularityNET",
+        "src": "static/img/coins/2424.png"
+    },
+    {
+        "pair": "PPT/ETH",
+        "name": "Populous",
+        "src": "static/img/coins/1789.png"
+    },
+    {
+        "pair": "ONT/BNB",
+        "name": "Ontology",
+        "src": "static/img/coins/2566.png"
+    },
+    {
+        "pair": "ENJ/ETH",
+        "name": "Enjin Coin",
+        "src": "static/img/coins/2130.png"
+    },
+    {
+        "pair": "TNT/ETH",
+        "name": "Tierion",
+        "src": "static/img/coins/1923.png"
+    },
+    {
+        "pair": "ZEC/ETH",
+        "name": "Zcash",
+        "src": "static/img/coins/1437.png"
+    },
+    {
+        "pair": "SALT/ETH",
+        "name": "SALT",
+        "src": "static/img/coins/1996.png"
+    },
+    {
+        "pair": "OAX/BTC",
+        "name": "OAX",
+        "src": "static/img/coins/1853.png"
+    },
+    {
+        "pair": "POA/ETH",
+        "name": "POA Network",
+        "src": "static/img/coins/2548.png"
+    },
+    {
+        "pair": "SNM/BTC",
+        "name": "SONM",
+        "src": "static/img/coins/1723.png"
+    },
+    {
+        "pair": "KNC/ETH",
+        "name": "Kyber Network",
+        "src": "static/img/coins/1982.png"
+    },
+    {
+        "pair": "FUEL/ETH",
+        "name": "Etherparty",
+        "src": "static/img/coins/2120.png"
+    },
+    {
+        "pair": "HC/BTC",
+        "name": "Hshare",
+        "src": "static/img/coins/1903.png"
+    },
+    {
+        "pair": "AION/ETH",
+        "name": "Aion",
+        "src": "static/img/coins/2062.png"
+    },
+    {
+        "pair": "IOTA/BNB",
+        "name": "IOTA",
+        "src": "static/img/coins/1720.png"
+    },
+    {
+        "pair": "GVT/ETH",
+        "name": "Genesis Vision",
+        "src": "static/img/coins/2181.png"
+    },
+    {
+        "pair": "NAV/BTC",
+        "name": "NavCoin",
+        "src": "static/img/coins/377.png"
+    },
+    {
+        "pair": "AE/ETH",
+        "name": "Aeternity",
+        "src": "static/img/coins/1700.png"
+    },
+    {
+        "pair": "MANA/ETH",
+        "name": "Decentraland",
+        "src": "static/img/coins/1966.png"
+    },
+    {
+        "pair": "AST/BTC",
+        "name": "AirSwap",
+        "src": "static/img/coins/2058.png"
+    },
+    {
+        "pair": "NEBL/ETH",
+        "name": "Neblio",
+        "src": "static/img/coins/1955.png"
+    },
+    {
+        "pair": "BNT/BTC",
+        "name": "Bancor",
+        "src": "static/img/coins/1727.png"
+    },
+    {
+        "pair": "SNT/ETH",
+        "name": "Status",
+        "src": "static/img/coins/1759.png"
+    },
+    {
+        "pair": "EVX/BTC",
+        "name": "Everex",
+        "src": "static/img/coins/2034.png"
+    },
+    {
+        "pair": "DGD/ETH",
+        "name": "DigixDAO",
+        "src": "static/img/coins/1229.png"
+    },
+    {
+        "pair": "RLC/BTC",
+        "name": "iExec RLC",
+        "src": "static/img/coins/1637.png"
+    },
+    {
+        "pair": "KEY/ETH",
+        "name": "Selfkey",
+        "src": "static/img/coins/2398.png"
+    },
+    {
+        "pair": "BQX/ETH",
+        "name": "Ethos",
+        "src": "static/img/coins/1817.png"
+    },
+    {
+        "pair": "MCO/ETH",
+        "name": "Crypto.com",
+        "src": "static/img/coins/1776.png"
+    },
+    {
+        "pair": "NEO/BNB",
+        "name": "NEO",
+        "src": "static/img/coins/1376.png"
+    },
+    {
+        "pair": "CND/ETH",
+        "name": "Cindicator",
+        "src": "static/img/coins/2043.png"
+    },
+    {
+        "pair": "WAVES/ETH",
+        "name": "Waves",
+        "src": "static/img/coins/1274.png"
+    },
+    {
+        "pair": "SKY/BTC",
+        "name": "Skycoin",
+        "src": "static/img/coins/1619.png"
+    },
+    {
+        "pair": "REQ/ETH",
+        "name": "Request Network",
+        "src": "static/img/coins/2071.png"
+    },
+    {
+        "pair": "ICX/BNB",
+        "name": "ICON",
+        "src": "static/img/coins/2099.png"
+    },
+    {
+        "pair": "CLOAK/BTC",
+        "name": "CloakCoin",
+        "src": "static/img/coins/362.png"
+    },
+    {
+        "pair": "BCC/BNB",
+        "name": "Bitcoin Cash",
+        "src": "static/img/coins/1831.png"
+    },
+    {
+        "pair": "STORJ/BTC",
+        "name": "Storj",
+        "src": "static/img/coins/1772.png"
+    },
+    {
+        "pair": "STORM/ETH",
+        "name": "Storm",
+        "src": "static/img/coins/2297.png"
+    },
+    {
+        "pair": "WABI/ETH",
+        "name": "WaBi",
+        "src": "static/img/coins/2267.png"
+    },
+    {
+        "pair": "POE/ETH",
+        "name": "Po.et",
+        "src": "static/img/coins/1937.png"
+    },
+    {
+        "pair": "STRAT/ETH",
+        "name": "Stratis",
+        "src": "static/img/coins/1343.png"
+    },
+    {
+        "pair": "POWR/BNB",
+        "name": "Power Ledger",
+        "src": "static/img/coins/2132.png"
+    },
+    {
+        "pair": "NULS/ETH",
+        "name": "Nuls",
+        "src": "static/img/coins/2092.png"
+    },
+    {
+        "pair": "ICN/BTC",
+        "name": "Iconomi",
+        "src": "static/img/coins/1408.png"
+    },
+    {
+        "pair": "REP/ETH",
+        "name": "Augur",
+        "src": "static/img/coins/1104.png"
+    },
+    {
+        "pair": "DOCK/ETH",
+        "name": "Dock",
+        "src": "static/img/coins/2675.png"
+    },
+    {
+        "pair": "NCASH/ETH",
+        "name": "Nucleus Vision",
+        "src": "static/img/coins/2544.png"
+    },
+    {
+        "pair": "VIB/ETH",
+        "name": "Viberate",
+        "src": "static/img/coins/2019.png"
+    },
+    {
+        "pair": "OST/ETH",
+        "name": "OST",
+        "src": "static/img/coins/2296.png"
+    },
+    {
+        "pair": "STEEM/ETH",
+        "name": "Steem",
+        "src": "static/img/coins/1230.png"
+    },
+    {
+        "pair": "WTC/BNB",
+        "name": "Waltonchain",
+        "src": "static/img/coins/1925.png"
+    },
+    {
+        "pair": "BAT/BNB",
+        "name": "Basic Attention Token",
+        "src": "static/img/coins/1697.png"
+    },
+    {
+        "pair": "ARN/ETH",
+        "name": "Aeron",
+        "src": "static/img/coins/2153.png"
+    },
+    {
+        "pair": "RDN/ETH",
+        "name": "Raiden Network Token",
+        "src": "static/img/coins/2161.png"
+    },
+    {
+        "pair": "GTO/BNB",
+        "name": "Gifto",
+        "src": "static/img/coins/2289.png"
+    },
+    {
+        "pair": "ARDR/ETH",
+        "name": "Ardor",
+        "src": "static/img/coins/1320.png"
+    },
+    {
+        "pair": "QSP/ETH",
+        "name": "Quantstamp",
+        "src": "static/img/coins/2212.png"
+    },
+    {
+        "pair": "LEND/ETH",
+        "name": "ETHLend",
+        "src": "static/img/coins/2239.png"
+    },
+    {
+        "pair": "SUB/ETH",
+        "name": "Substratum",
+        "src": "static/img/coins/1984.png"
+    },
+    {
+        "pair": "DNT/ETH",
+        "name": "district0x",
+        "src": "static/img/coins/1856.png"
+    },
+    {
+        "pair": "SNGLS/ETH",
+        "name": "SingularDTV",
+        "src": "static/img/coins/1409.png"
+    },
+    {
+        "pair": "ETC/BNB",
+        "name": "Ethereum Classic",
+        "src": "static/img/coins/1321.png"
+    },
+    {
+        "pair": "BTS/ETH",
+        "name": "BitShares",
+        "src": "static/img/coins/463.png"
+    },
+    {
+        "pair": "LRC/ETH",
+        "name": "Loopring",
+        "src": "static/img/coins/1934.png"
+    },
+    {
+        "pair": "BNT/ETH",
+        "name": "Bancor",
+        "src": "static/img/coins/1727.png"
+    },
+    {
+        "pair": "GNT/ETH",
+        "name": "Golem",
+        "src": "static/img/coins/1455.png"
+    },
+    {
+        "pair": "BTG/ETH",
+        "name": "Bitcoin Gold",
+        "src": "static/img/coins/2083.png"
+    },
+    {
+        "pair": "BCN/ETH",
+        "name": "Bytecoin",
+        "src": "static/img/coins/372.png"
+    },
+    {
+        "pair": "ARK/ETH",
+        "name": "Ark",
+        "src": "static/img/coins/1586.png"
+    },
+    {
+        "pair": "MDA/BTC",
+        "name": "Moeda Loyalty Points",
+        "src": "static/img/coins/1954.png"
+    },
+    {
+        "pair": "TNB/ETH",
+        "name": "Time New Bank",
+        "src": "static/img/coins/2235.png"
+    },
+    {
+        "pair": "ADX/ETH",
+        "name": "AdEx",
+        "src": "static/img/coins/1768.png"
+    },
+    {
+        "pair": "NAV/ETH",
+        "name": "NavCoin",
+        "src": "static/img/coins/377.png"
+    },
+    {
+        "pair": "QLC/ETH",
+        "name": "QLC Chain",
+        "src": "static/img/coins/2321.png"
+    },
+    {
+        "pair": "CVC/ETH",
+        "name": "Civic",
+        "src": "static/img/coins/1816.png"
+    },
+    {
+        "pair": "THETA/ETH",
+        "name": "Theta Token",
+        "src": "static/img/coins/2416.png"
+    },
+    {
+        "pair": "AGI/ETH",
+        "name": "SingularityNET",
+        "src": "static/img/coins/2424.png"
+    },
+    {
+        "pair": "EDO/ETH",
+        "name": "Eidoo",
+        "src": "static/img/coins/2057.png"
+    },
+    {
+        "pair": "XZC/ETH",
+        "name": "ZCoin",
+        "src": "static/img/coins/1414.png"
+    },
+    {
+        "pair": "AMB/ETH",
+        "name": "Ambrosus",
+        "src": "static/img/coins/2081.png"
+    },
+    {
+        "pair": "RCN/ETH",
+        "name": "Ripio Credit Network",
+        "src": "static/img/coins/2096.png"
+    },
+    {
+        "pair": "INS/ETH",
+        "name": "INS Ecosystem",
+        "src": "static/img/coins/2369.png"
+    },
+    {
+        "pair": "PHX/ETH",
+        "name": "Red Pulse Phoenix",
+        "src": "static/img/coins/2112.png"
+    },
+    {
+        "pair": "TUSD/BNB",
+        "name": "TrueUSD",
+        "src": "static/img/coins/2563.png"
+    },
+    {
+        "pair": "ZIL/BNB",
+        "name": "Zilliqa",
+        "src": "static/img/coins/2469.png"
+    },
+    {
+        "pair": "APPC/ETH",
+        "name": "AppCoins",
+        "src": "static/img/coins/2344.png"
+    },
+    {
+        "pair": "WPR/ETH",
+        "name": "WePower",
+        "src": "static/img/coins/2511.png"
+    },
+    {
+        "pair": "KMD/ETH",
+        "name": "Komodo",
+        "src": "static/img/coins/1521.png"
+    },
+    {
+        "pair": "DENT/ETH",
+        "name": "Dent",
+        "src": "static/img/coins/1886.png"
+    },
+    {
+        "pair": "LOOM/BNB",
+        "name": "Loom Network",
+        "src": "static/img/coins/2588.png"
+    },
+    {
+        "pair": "ZEN/ETH",
+        "name": "Horizen",
+        "src": "static/img/coins/1698.png"
+    },
+    {
+        "pair": "DLT/ETH",
+        "name": "Agrello",
+        "src": "static/img/coins/1949.png"
+    },
+    {
+        "pair": "SNM/ETH",
+        "name": "SONM",
+        "src": "static/img/coins/1723.png"
+    },
+    {
+        "pair": "TRIG/ETH",
+        "name": "Triggers",
+        "src": "static/img/coins/1423.png"
+    },
+    {
+        "pair": "AST/ETH",
+        "name": "AirSwap",
+        "src": "static/img/coins/2058.png"
+    },
+    {
+        "pair": "OAX/ETH",
+        "name": "OAX",
+        "src": "static/img/coins/1853.png"
+    },
+    {
+        "pair": "XEM/BNB",
+        "name": "NEM",
+        "src": "static/img/coins/873.png"
+    },
+    {
+        "pair": "DATA/ETH",
+        "name": "Streamr DATAcoin",
+        "src": "static/img/coins/2143.png"
+    },
+    {
+        "pair": "PIVX/ETH",
+        "name": "PIVX",
+        "src": "static/img/coins/1169.png"
+    },
+    {
+        "pair": "MTL/ETH",
+        "name": "Metal",
+        "src": "static/img/coins/1788.png"
+    },
+    {
+        "pair": "GXS/ETH",
+        "name": "GXChain",
+        "src": "static/img/coins/1750.png"
+    },
+    {
+        "pair": "MOD/ETH",
+        "name": "Modum",
+        "src": "static/img/coins/2080.png"
+    },
+    {
+        "pair": "GRS/ETH",
+        "name": "Groestlcoin",
+        "src": "static/img/coins/258.png"
+    },
+    {
+        "pair": "ICN/ETH",
+        "name": "Iconomi",
+        "src": "static/img/coins/1408.png"
+    },
+    {
+        "pair": "CND/BNB",
+        "name": "Cindicator",
+        "src": "static/img/coins/2043.png"
+    },
+    {
+        "pair": "LSK/BNB",
+        "name": "Lisk",
+        "src": "static/img/coins/1214.png"
+    },
+    {
+        "pair": "YOYO/ETH",
+        "name": "YOYOW",
+        "src": "static/img/coins/1899.png"
+    },
+    {
+        "pair": "RLC/ETH",
+        "name": "iExec RLC",
+        "src": "static/img/coins/1637.png"
+    },
+    {
+        "pair": "VIA/ETH",
+        "name": "Viacoin",
+        "src": "static/img/coins/470.png"
+    },
+    {
+        "pair": "QTUM/BNB",
+        "name": "Qtum",
+        "src": "static/img/coins/1684.png"
+    },
+    {
+        "pair": "NULS/BNB",
+        "name": "Nuls",
+        "src": "static/img/coins/2092.png"
+    },
+    {
+        "pair": "NXS/ETH",
+        "name": "Nexus",
+        "src": "static/img/coins/789.png"
+    },
+    {
+        "pair": "HC/ETH",
+        "name": "Hshare",
+        "src": "static/img/coins/1903.png"
+    },
+    {
+        "pair": "BRD/ETH",
+        "name": "Bread",
+        "src": "static/img/coins/2306.png"
+    },
+    {
+        "pair": "GO/BNB",
+        "name": "GoChain",
+        "src": "static/img/coins/2861.png"
+    },
+    {
+        "pair": "STORJ/ETH",
+        "name": "Storj",
+        "src": "static/img/coins/1772.png"
+    },
+    {
+        "pair": "SKY/ETH",
+        "name": "Skycoin",
+        "src": "static/img/coins/1619.png"
+    },
+    {
+        "pair": "BCN/BNB",
+        "name": "Bytecoin",
+        "src": "static/img/coins/372.png"
+    },
+    {
+        "pair": "SYS/ETH",
+        "name": "Syscoin",
+        "src": "static/img/coins/541.png"
+    },
+    {
+        "pair": "CMT/BNB",
+        "name": "CyberMiles",
+        "src": "static/img/coins/2246.png"
+    },
+    {
+        "pair": "MDA/ETH",
+        "name": "Moeda Loyalty Points",
+        "src": "static/img/coins/1954.png"
+    },
+    {
+        "pair": "NCASH/BNB",
+        "name": "Nucleus Vision",
+        "src": "static/img/coins/2544.png"
+    },
+    {
+        "pair": "GNT/BNB",
+        "name": "Golem",
+        "src": "static/img/coins/1455.png"
+    },
+    {
+        "pair": "NEBL/BNB",
+        "name": "Neblio",
+        "src": "static/img/coins/1955.png"
+    },
+    {
+        "pair": "WAN/BNB",
+        "name": "Wanchain",
+        "src": "static/img/coins/2606.png"
+    },
+    {
+        "pair": "CLOAK/ETH",
+        "name": "CloakCoin",
+        "src": "static/img/coins/362.png"
+    },
+    {
+        "pair": "WABI/BNB",
+        "name": "WaBi",
+        "src": "static/img/coins/2267.png"
+    },
+    {
+        "pair": "STEEM/BNB",
+        "name": "Steem",
+        "src": "static/img/coins/1230.png"
+    },
+    {
+        "pair": "WINGS/ETH",
+        "name": "Wings",
+        "src": "static/img/coins/1500.png"
+    },
+    {
+        "pair": "BCPT/ETH",
+        "name": "BlockMason Credit Protocol",
+        "src": "static/img/coins/2061.png"
+    },
+    {
+        "pair": "EVX/ETH",
+        "name": "Everex",
+        "src": "static/img/coins/2034.png"
+    },
+    {
+        "pair": "ENJ/BNB",
+        "name": "Enjin Coin",
+        "src": "static/img/coins/2130.png"
+    },
+    {
+        "pair": "WAVES/BNB",
+        "name": "Waves",
+        "src": "static/img/coins/1274.png"
+    },
+    {
+        "pair": "AION/BNB",
+        "name": "Aion",
+        "src": "static/img/coins/2062.png"
+    },
+    {
+        "pair": "APPC/BNB",
+        "name": "AppCoins",
+        "src": "static/img/coins/2344.png"
+    },
+    {
+        "pair": "THETA/BNB",
+        "name": "Theta Token",
+        "src": "static/img/coins/2416.png"
+    },
+    {
+        "pair": "SC/BNB",
+        "name": "Siacoin",
+        "src": "static/img/coins/1042.png"
+    },
+    {
+        "pair": "MFT/BNB",
+        "name": "Mainframe",
+        "src": "static/img/coins/2896.png"
+    },
+    {
+        "pair": "ADX/BNB",
+        "name": "AdEx",
+        "src": "static/img/coins/1768.png"
+    },
+    {
+        "pair": "POA/BNB",
+        "name": "POA Network",
+        "src": "static/img/coins/2548.png"
+    },
+    {
+        "pair": "ZEN/BNB",
+        "name": "Horizen",
+        "src": "static/img/coins/1698.png"
+    },
+    {
+        "pair": "POLY/BNB",
+        "name": "Polymath",
+        "src": "static/img/coins/2496.png"
+    },
+    {
+        "pair": "CVC/BNB",
+        "name": "Civic",
+        "src": "static/img/coins/1816.png"
+    },
+    {
+        "pair": "BLZ/BNB",
+        "name": "Bluzelle",
+        "src": "static/img/coins/2505.png"
+    },
+    {
+        "pair": "VIA/BNB",
+        "name": "Viacoin",
+        "src": "static/img/coins/470.png"
+    },
+    {
+        "pair": "TRIG/BNB",
+        "name": "Triggers",
+        "src": "static/img/coins/1423.png"
+    },
+    {
+        "pair": "STORM/BNB",
+        "name": "Storm",
+        "src": "static/img/coins/2297.png"
+    },
+    {
+        "pair": "BRD/BNB",
+        "name": "Bread",
+        "src": "static/img/coins/2306.png"
+    },
+    {
+        "pair": "MCO/BNB",
+        "name": "Crypto.com",
+        "src": "static/img/coins/1776.png"
+    },
+    {
+        "pair": "ARDR/BNB",
+        "name": "Ardor",
+        "src": "static/img/coins/1320.png"
+    },
+    {
+        "pair": "DLT/BNB",
+        "name": "Agrello",
+        "src": "static/img/coins/1949.png"
+    },
+    {
+        "pair": "OST/BNB",
+        "name": "OST",
+        "src": "static/img/coins/2296.png"
+    },
+    {
+        "pair": "SKY/BNB",
+        "name": "Skycoin",
+        "src": "static/img/coins/1619.png"
+    },
+    {
+        "pair": "RCN/BNB",
+        "name": "Ripio Credit Network",
+        "src": "static/img/coins/2096.png"
+    },
+    {
+        "pair": "AE/BNB",
+        "name": "Aeternity",
+        "src": "static/img/coins/1700.png"
+    },
+    {
+        "pair": "REP/BNB",
+        "name": "Augur",
+        "src": "static/img/coins/1104.png"
+    },
+    {
+        "pair": "AGI/BNB",
+        "name": "SingularityNET",
+        "src": "static/img/coins/2424.png"
+    },
+    {
+        "pair": "AMB/BNB",
+        "name": "Ambrosus",
+        "src": "static/img/coins/2081.png"
+    },
+    {
+        "pair": "QSP/BNB",
+        "name": "Quantstamp",
+        "src": "static/img/coins/2212.png"
+    },
+    {
+        "pair": "RDN/BNB",
+        "name": "Raiden Network Token",
+        "src": "static/img/coins/2161.png"
+    },
+    {
+        "pair": "QLC/BNB",
+        "name": "QLC Chain",
+        "src": "static/img/coins/2321.png"
+    },
+    {
+        "pair": "NXS/BNB",
+        "name": "Nexus",
+        "src": "static/img/coins/789.png"
+    },
+    {
+        "pair": "YOYO/BNB",
+        "name": "YOYOW",
+        "src": "static/img/coins/1899.png"
+    },
+    {
+        "pair": "RLC/BNB",
+        "name": "iExec RLC",
+        "src": "static/img/coins/1637.png"
+    },
+    {
+        "pair": "NAS/BNB",
+        "name": "Nebulas",
+        "src": "static/img/coins/1908.png"
+    },
+    {
+        "pair": "BCPT/BNB",
+        "name": "BlockMason Credit Protocol",
+        "src": "static/img/coins/2061.png"
+    },
+    {
+        "pair": "BTS/BNB",
+        "name": "BitShares",
+        "src": "static/img/coins/463.png"
+    },
+    {
+        "pair": "XZC/BNB",
+        "name": "ZCoin",
+        "src": "static/img/coins/1414.png"
+    },
+    {
+        "pair": "PHX/BNB",
+        "name": "Red Pulse Phoenix",
+        "src": "static/img/coins/2112.png"
+    },
+    {
+        "pair": "SYS/BNB",
+        "name": "Syscoin",
+        "src": "static/img/coins/541.png"
+    },
+    {
+        "pair": "PIVX/BNB",
+        "name": "PIVX",
+        "src": "static/img/coins/1169.png"
+    },
+    {
+        "pair": "NAV/BNB",
+        "name": "NavCoin",
+        "src": "static/img/coins/377.png"
+    },
+    {
+        "pair": "USDT/BTC",
+        "name": "Tether",
+        "src": "static/img/coins/825.png"
+    },
+    {
+        "pair": "USDC/BTC",
+        "name": "USD Coin",
+        "src": "static/img/coins/3408.png"
+    }
+]
